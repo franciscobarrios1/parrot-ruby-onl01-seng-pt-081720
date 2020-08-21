@@ -1,2 +1,5 @@
-# Create method `parrot` that outputs a given phrase and
-# returns the phrase
+# parrot.rb
+def parrot do
+  phrase = ("Squawk!")
+puts ("pretty bird!")
+end
