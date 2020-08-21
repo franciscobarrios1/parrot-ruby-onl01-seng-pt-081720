@@ -1,5 +1,5 @@
 # parrot.rb
-def parrot do
-  phrase = ("Squawk!")
-puts ("pretty bird!")
+def parrot_phrase do 
+  puts ("Squawk!")
+return  phrase = ("Squawk!")
 end
